@@ -1,0 +1,5 @@
+---
+# defaults file for nginx
+iam_profile_name: "EC2NodeRoleForALB"
+tag_filter: "*worker*"
+aws_region: "ap-south-1"
